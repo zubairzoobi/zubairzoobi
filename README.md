@@ -4,7 +4,7 @@ I'm a Ph.D. researcher in Neuroscience and Imaging at the Università degli Stud
 
 ---
 
-**🔬 Present Roles**
+## 🔬 Present Roles**
 
 **🎓 Ph.D. Student**, Università “G. d’Annunzio” Chieti-Pescara (2022–2025)
 
