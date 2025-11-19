@@ -30,6 +30,13 @@ Working on deep learning models for neurological MRI analysis, including Parkins
 - AI-based Biomarker and Pattern Recognition
 - Model Explainability and Visual Interpretation
 - Machine Learning for Regression and Classification
+ 
+- Deep Learning and Computer Vision 
+- Medical Image Analysis (MRI, multi-planar imaging)  
+- **Imaging Tools:** MATLAB, ITK-SNAP, SPM12, FSL, FreeSurfer, MRIcro, ANTsPy  
+- **Environments & IDEs:** Anaconda, Spyder, Jupyter, Google Colab   
+- **Skills:** MRI preprocessing, image analysis, CNN design (2D/3D), attention models, explainable AI (Grad-CAM, heatmaps)
+
 
   ---
 
