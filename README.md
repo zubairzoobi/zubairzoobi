@@ -21,3 +21,15 @@ Working on deep learning models for neurological MRI analysis, including Parkins
 | BS in Software Engineering                    | University of the Punjab, Pakistan                | 2012–2016    |
 
 ---
+
+## 🧠 Research Areas
+
+- Deep Learning and Computer Vision  
+- Medical Image Analysis (MRI, multi-planar imaging)  
+- 3D Convolutional Neural Networks  
+- Attention and Feature-Weighting Mechanisms  
+- AI-based Biomarker and Pattern Recognition  
+- Model Explainability and Visual Interpretation  
+- Machine Learning for Regression and Classification
+
+  ---
