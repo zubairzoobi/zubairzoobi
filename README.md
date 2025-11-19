@@ -24,8 +24,8 @@ Working on deep learning models for neurological MRI analysis, including Parkins
 
 ## 🧠 Research Areas
 
-,Deep Learning and Computer Vision  
-,Medical Image Analysis (MRI, multi-planar imaging)  
+_Deep Learning and Computer Vision  
+_Medical Image Analysis (MRI, multi-planar imaging)  
 - 3D Convolutional Neural Networks  
 - Attention and Feature-Weighting Mechanisms  
 - AI-based Biomarker and Pattern Recognition  
