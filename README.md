@@ -7,7 +7,6 @@ I'm a Ph.D. researcher in Neuroscience and Imaging at the Università degli Stud
 ## 🔬 Present Roles
 
 **🎓 Ph.D. Student**, Università “G. d’Annunzio” Chieti-Pescara (2022–2025)
-
 Working on deep learning models for neurological MRI analysis, including Parkinson’s disease classification and fetal brain maturation modelling.
 
 ---
