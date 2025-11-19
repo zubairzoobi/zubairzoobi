@@ -32,3 +32,14 @@ Working on deep learning models for neurological MRI analysis, including Parkins
 - Machine Learning for Regression and Classification
 
   ---
+
+## 🧰 Tools & Technologies
+
+- **Languages:** Python, C++, C, SQL, HTML  
+- **Frameworks:** TensorFlow, PyTorch, Keras  
+- **Libraries:** NumPy, Pandas, scikit-learn, OpenCV, Matplotlib  
+- **Imaging Tools:** MATLAB, ITK-SNAP, SPM12, FSL, FreeSurfer, MRIcro, ANTsPy  
+- **Environments & IDEs:** Anaconda, Spyder, Jupyter, Google Colab   
+- **Skills:** MRI preprocessing, image analysis, CNN design (2D/3D), attention models, explainable AI (Grad-CAM, heatmaps)
+
+ ---
