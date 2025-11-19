@@ -13,11 +13,11 @@ Working on deep learning models for neurological MRI analysis, including Parkins
 
 ## 🎓 Education
 
-| Degree                                        | Institute                                         | Duration     |
-| ----------------------------------------------| --------------------------------------------------| -------------|
-| Ph.D. in Neuroscience and Imaging             | Università “G. d’Annunzio” Chieti-Pescara, Italy  | 2022–2025    |
-| MS in Electrical and Computer Engineering     | Antalya Bilim University, Turkey                  | 2018–2020    |
-| BS in Software Engineering                    | University of the Punjab, Pakistan                | 2012–2016    |
+| Degree                                     | Institute                                         | Duration     |
+| -------------------------------------------|---------------------------------------------------| -------------|
+| Ph.D. in Neuroscience and Imaging          | Università “G. d’Annunzio” Chieti-Pescara, Italy  | 2022–2025    |
+| MS in Electrical and Computer Engineering  | Antalya Bilim University, Turkey                  | 2018–2020    |
+| Bachelor of Science in Computer Science    | University of the Punjab, Pakistan                | 2012–2016    |
 
 ---
 
