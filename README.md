@@ -4,7 +4,7 @@ I'm a Ph.D. researcher in Neuroscience and Imaging at the Università degli Stud
 
 ---
 
-## 🔬 Present Roles**
+## 🔬 Present Roles
 
 **🎓 Ph.D. Student**, Università “G. d’Annunzio” Chieti-Pescara (2022–2025)
 
@@ -12,4 +12,12 @@ Working on deep learning models for neurological MRI analysis, including Parkins
 
 ---
 
+## 🎓 Education
 
+| Degree                                        | Institute                                         | Duration     |
+| ----------------------------------------------| --------------------------------------------------| -------------|
+| Ph.D. in Neuroscience and Imaging             | Università “G. d’Annunzio” Chieti-Pescara, Italy  | 2022–2025    |
+| MS in Electrical and Computer Engineering     | Antalya Bilim University, Turkey                  | 2018–2020    |
+| BS in Software Engineering                    | University of the Punjab, Pakistan                | 2012–2016    |
+
+---
