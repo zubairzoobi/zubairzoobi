@@ -1,14 +1,13 @@
 ## Hi, I’m Muhammad Zubair 👋
 
-I'm a Ph.D. researcher in Neuroscience and Imaging at the Università degli Studi “G. d’Annunzio” Chieti-Pescara, working on deep learning and medical imaging. Focus areas: MRI analysis, multi-planar modelling, disease classification, and AI-based predictive modelling.
+Machine Learning Engineer and AI researcher with a PhD in Neuroscience and Imaging. I develop deep learning solutions for medical imaging and multimodal physiological data, with expertise in Python, CNNs, model validation, and explainable AI.
 
 ---
 
 ## 🔬 Present Roles
 
-**🎓 Research Fellow **, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Rome, Italy  
-Project: AGE-IT—Interventions and Technologies to Reduce the Burden of Age-Related Diseases (AIM-CARE: AI,
-Assistive Technologies, and Cognitive Architectures for Personalized and Empathetic Interaction).
+**🎓 Research Fellow**, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Rome, Italy  
+Working within the AGE-IT / AIM-CARE project on AI-driven health monitoring, cognitive assessment, and assistive technologies. My work focuses on machine learning pipelines for multimodal physiological data, including EEG, preprocessing, feature extraction, classification, and regression.
 
 ---
 
