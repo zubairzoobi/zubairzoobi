@@ -6,8 +6,9 @@ I'm a Ph.D. researcher in Neuroscience and Imaging at the Università degli Stud
 
 ## 🔬 Present Roles
 
-**🎓 Ph.D. Student**, Università “G. d’Annunzio” Chieti-Pescara (2022–2025)  
-Working on deep learning models for neurological MRI analysis, including Parkinson’s disease classification and fetal brain maturation modelling.
+**🎓 Research Fellow **, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Rome, Italy  
+Project: AGE-IT—Interventions and Technologies to Reduce the Burden of Age-Related Diseases (AIM-CARE: AI,
+Assistive Technologies, and Cognitive Architectures for Personalized and Empathetic Interaction).
 
 ---
 
